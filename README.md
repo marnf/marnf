@@ -30,8 +30,8 @@ I am a passionate frontend developer with a strong understanding of modern web t
 
 | Technology         | Usage Percentage |
 |--------------------|------------------|
-| HTML5              | 100%             |
-| CSS3               | 100%             |
+| HTML5              | 95%             |
+| CSS3               | 95%             |
 | JavaScript (ES6+)  | 90%              |
 | React.js           | 85%              |
 | SvelteKit          | 70%              |
@@ -39,19 +39,47 @@ I am a passionate frontend developer with a strong understanding of modern web t
 | Bootstrap          | 80%              |
 | Firebase           | 75%              |
 
----
-
-## 🌟 Highlighted Projects:
-1. **Project 1:** _[Project Name]_ - [Brief description and live/demo link]
-2. **Project 2:** _[Project Name]_ - [Brief description and live/demo link]
-3. **Project 3:** _[Project Name]_ - [Brief description and live/demo link]
+### Animated Knowledge Progress Bars:
+```html
+<div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
+  <div>
+    <label>HTML5:</label>
+    <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+      <div style="width: 95%; background: #4caf50; color: white; text-align: right; padding: 5px; border-radius: 10px;">95%</div>
+    </div>
+  </div>
+  <div>
+    <label>CSS3:</label>
+    <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+      <div style="width: 95%; background: #2196f3; color: white; text-align: right; padding: 5px; border-radius: 10px;">95%</div>
+    </div>
+  </div>
+  <div>
+    <label>JavaScript (ES6+):</label>
+    <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+      <div style="width: 90%; background: #ff9800; color: white; text-align: right; padding: 5px; border-radius: 10px;">90%</div>
+    </div>
+  </div>
+  <div>
+    <label>React.js:</label>
+    <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+      <div style="width: 85%; background: #9c27b0; color: white; text-align: right; padding: 5px; border-radius: 10px;">85%</div>
+    </div>
+  </div>
+  <div>
+    <label>SvelteKit:</label>
+    <div style="background: #e0e0e0; border-radius: 10px; overflow: hidden;">
+      <div style="width: 70%; background: #ff5722; color: white; text-align: right; padding: 5px; border-radius: 10px;">70%</div>
+    </div>
+  </div>
+</div>
+```
 
 ---
 
 ## 💬 Let's Connect:
-- **Portfolio:** [Your Portfolio Link]
-- **GitHub:** [Your GitHub Link]
-- **Email:** [Your Email Address]
+- **GitHub:** [https://github.com/marnf]
+- **Email:** [marnf91@gmail.com]
 
 ---
 
