@@ -8,7 +8,7 @@ I am a passionate frontend developer with a strong understanding of modern web t
 
 ## 🚀 Skills & Expertise:
 - **Languages & Frameworks:**
-  - HTML5, CSS3, JavaScript (ES6+), TypeScript
+  - HTML5, CSS3, JavaScript (ES6+), python
   - React.js, SvelteKit
 - **Styling:**
   - Tailwind CSS, Bootstrap, Daisy UI
@@ -30,9 +30,10 @@ I am a passionate frontend developer with a strong understanding of modern web t
 
 | Technology         | Usage Percentage |
 |--------------------|------------------|
-| HTML5              | 95%             |
-| CSS3               | 95%             |
+| HTML5              | 95%              |
+| CSS3               | 95%              |
 | JavaScript (ES6+)  | 90%              |
+| Python             | 80%              |
 | React.js           | 85%              |
 | SvelteKit          | 70%              |
 | Tailwind CSS       | 95%              |
